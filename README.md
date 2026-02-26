@@ -15,7 +15,7 @@ but bindings of necessity, demanded of all who would set foot upon those lands u
 
 ---
 
-## 🜂 The Proper Ordering of the Resource Tomes
+## 🧙‍♂️ The Proper Ordering of the Resource Tomes
 
 <p align="center">
   <img src="./resource_packs_order.png" />
@@ -32,7 +32,7 @@ and the world itself descend into discord and ruin most dire.
 
 ---
 
-## ⚠️ A Solemn Warning Regarding the Coconut Relic
+## 🥥 A Solemn Warning Regarding the Coconut Relic
 
 Under no hypothesis,  
 beneath no circumstance,  
